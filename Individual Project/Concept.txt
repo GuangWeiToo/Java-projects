@@ -1,0 +1,20 @@
+Bouncing image on GUI
+---------------------------------------------------------------------------------------------
+Using multithread to:
+1.move object 
+or
+2.multiple objects at same time
+
+Create a small window Gui
+400 by 600
+
+repaint in loop of object at diffrent loactions at a time
+
+increment to transform object
+
+Car race
+--------------------------------------------------------------------------------------------
+Directions:
+Press play to Start
+Press reset to Restart
+Bet your lucky car
